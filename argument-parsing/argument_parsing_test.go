@@ -1,4 +1,4 @@
-package smparse
+package argument_parsing
 
 import (
 	"strings"
